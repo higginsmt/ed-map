@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  hs_rate: 1.5
+  hs_rank: 1
+  ba_rate: 1.5
+  ba_rank: 1
+  adv_rate: 1.5
+  adv_rank: 1
+
+two:
+  name: MyString
+  hs_rate: 1.5
+  hs_rank: 1
+  ba_rate: 1.5
+  ba_rank: 1
+  adv_rate: 1.5
+  adv_rank: 1

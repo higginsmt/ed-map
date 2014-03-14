@@ -1,0 +1,16 @@
+defaults: &defaults
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *defaults
+  database: ed_data_development
+
+test:
+  <<: *defaults
+  database: ed_data_test
+
+production:
+  <<: *defaults
+  database: ed_data_production
