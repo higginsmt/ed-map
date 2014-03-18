@@ -1,0 +1,6 @@
+Try to:
+
+  Move legend text to the right of color square
+
+  Add the ability to colorize by HS, BA, and ADV
+
